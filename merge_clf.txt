@@ -1,1 +1,2 @@
-This is the conflict file
+this will create conflict for two repo
+
